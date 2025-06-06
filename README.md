@@ -34,12 +34,7 @@ Passionate about problem-solving, learning new tools, and applying data for busi
 **Banking Risk Analysis**  
 • Analyzed banking data to detect financial risk and loan defaults  
 • Built a custom risk-weighted loss metric  
-• Tools: Python, NumPy, Pandas, Matplotlib, Seaborn  
-
-**Customer Behavior & Sales EDA**  
-• Explored customer segments, sales patterns, and revenue drivers  
-• Identified customer retention factors  
-• Tools: Power BI, Excel  
+• Tools: Python, NumPy, Pandas, Matplotlib, Seaborn   
 
 ---
 
