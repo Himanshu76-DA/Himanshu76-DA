@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Himanshu76-DA/Himanshu76-DA/main/hawaii-illustration-retro-comic-style.jpg" width="100%" alt="banner">
+</p>
+
 # Hi, I'm Himanshu  
 ## Aspiring Data Analyst | Python | SQL | Power BI  
 
