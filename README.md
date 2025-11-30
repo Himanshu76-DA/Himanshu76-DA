@@ -1,52 +1,82 @@
-# Hi, I'm Himanshu
-## Aspiring Data Analyst | Python | SQL | Power BI
+# Hi, I'm Himanshu  
+## Aspiring Data Analyst | Python | SQL | Power BI  
 
 ---
 
-### About Me
+## 🚀 About Me  
+Aspiring **Data Analyst** with strong hands-on experience in  
+**Python (Pandas, NumPy, Seaborn, Matplotlib, SciPy)**,  
+**SQL (Joins, CTEs, Window Functions)**,  
+**Power BI (DAX, KPIs, Dashboards)**, and **Excel**.
 
-Aspiring Data Analyst with strong hands-on skills in Python (NumPy, Pandas, Seaborn, SciPy, Matplotlib), SQL, Excel, and Power BI  
-Experienced in data cleaning and exploratory data analysis (EDA)  
-Skilled at turning raw data into actionable insights through visualization and storytelling  
-Passionate about problem-solving, learning new tools, and applying data for business impact
-
----
-
-### Skills
-
-- Python: NumPy, Pandas, Matplotlib, Seaborn, SciPy  
-- SQL: Joins, Window Functions, CTEs, Aggregations  
-- Power BI: Dashboards, DAX, Interactive Reports  
-- Excel: Pivot Tables, VLOOKUP, Data Cleaning  
-- Other: EDA, Data Storytelling
+Skilled in **data cleaning, EDA, visualization, and storytelling**.  
+Passionate about solving business problems using data and continuously improving my analytics skills.
 
 ---
 
-### Education
+## 🛠️ Skills  
 
-- 12th Grade (Non-Medical) – 84% (2024)  
-- Bachelor of Computer Applications (B.CA) – Ongoing (2024–2027)
+### 🐍 Python  
+- NumPy • Pandas • Matplotlib • Seaborn • SciPy  
 
----
+### 🗄️ SQL  
+- Joins • CTEs • Window Functions • Aggregations  
 
-### Projects
+### 📊 Power BI  
+- Interactive Dashboards • DAX Measures • Data Modeling  
 
-**Banking Risk Analysis**  
-• Analyzed banking data to detect financial risk and loan defaults  
-• Built a custom risk-weighted loss metric  
-• Tools: Python, NumPy, Pandas, Matplotlib, Seaborn   
+### 📗 Excel  
+- Pivot Tables • VLOOKUP • Power Query • Cleaning  
 
----
-
-### Connect with Me
-
-- Email: [himanshujanghu76@gmail.com](mailto:himanshujanghu76@gmail.com)  
-- LinkedIn: [linkedin.com/in/himanshu-janghu-059a52353](https://www.linkedin.com/in/himanshu-janghu-059a52353/)  
-- GitHub: [github.com/Himanshu76-DA](https://github.com/Himanshu76-DA)  
-- Fiverr: [fiverr.com/sellers/himanshu_janghu/edit](https://www.fiverr.com/sellers/himanshu_janghu/edit)
+### 📌 Core Skills  
+- Data Cleaning • Exploratory Data Analysis • Visualization • Insights Reporting  
 
 ---
 
-### GitHub Stats
+## 🎓 Education  
+- **12th (Non-Medical)** – 84% (2024)  
+- **Bachelor of Computer Applications (BCA)** – Ongoing (2024–2027)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himanshu76-DA&show_icons=true&theme=default)
+---
+
+## 📁 Projects  
+
+### **Banking Risk Analysis**  
+- Analyzed client financial data to detect loan default risks  
+- Designed a custom **risk-weighted score**  
+- Tools: Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+---
+
+## 🧾 Resume  
+🔗 **[View My Resume](https://drive.google.com/file/d/17E1g9qF8x4S58pTWbTVDvHG-Diz1vi2E/view)**
+
+---
+
+## 🏅 Certifications  
+- **Outstanding Performer – The RD Group of Industries**  
+  🔗 [View Certificate](https://drive.google.com/file/d/12Tkza9NNFKFkUnLdmrUOgIw1ZQamAY18/view)
+
+---
+
+## 🔗 Connect With Me  
+- **Email:** himanshujanghu76@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/himanshu-janghu-059a52353  
+- **GitHub:** https://github.com/Himanshu76-DA  
+- **Fiverr:** https://www.fiverr.com/sellers/himanshu_janghu/edit  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himanshu76-DA&show_icons=true&hide_border=true)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Himanshu76-DA&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu76-DA&layout=compact&hide_border=true)
+
+---
+
+<p align="center">
+⚡ <b>“They gossip in groups, I move with data.”</b>
+</p>
