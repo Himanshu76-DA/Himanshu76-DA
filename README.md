@@ -9,7 +9,7 @@
 
 ## 🚀 About Me  
 Aspiring **Data Analyst** with strong hands-on experience in  
-**Python (Pandas, NumPy, Seaborn, Matplotlib, SciPy)**,  
+**Python (Pandas, NumPy, Seaborn, Matplotlib, SciPy)**, 
 **SQL (Joins, CTEs, Window Functions)**,  
 **Power BI (DAX, KPIs, Dashboards)**, and **Excel**.
 
@@ -80,6 +80,7 @@ Passionate about solving business problems using data and continuously improving
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu76-DA&layout=compact&hide_border=true)
 
 ---
+
 
 <p align="center">
 ⚡ <b>“They gossip in groups, I move with data.”</b>
